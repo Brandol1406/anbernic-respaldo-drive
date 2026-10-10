@@ -213,3 +213,7 @@ hay en Drive (requiere haber vinculado la cuenta).
 ## Compatibilidad
 
 Probado en una **RG34XX SP** con el sistema original **1.0.6**.
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Brandol1406
