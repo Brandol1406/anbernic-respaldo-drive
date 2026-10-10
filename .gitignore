@@ -1,0 +1,10 @@
+# Google credentials and session: NEVER upload them
+client_secret*.json
+token.json
+*.json.tmp
+
+# Runtime
+log.txt
+__pycache__/
+*.pyc
+*.nube_tmp
